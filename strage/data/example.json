@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2024-02-20",
+    "temperatureC": 40,
+    "temperatureF": 103,
+    "summary": "Warm",
+    "location": "San Francisco"
+  },
+  {
+    "date": "2024-02-21",
+    "temperatureC": 10,
+    "temperatureF": 49,
+    "summary": "Chilly",
+    "location": "Cape Town"
+  },
+  {
+    "date": "2024-02-22",
+    "temperatureC": 15,
+    "temperatureF": 58,
+    "summary": "Sweltering",
+    "location": "Cape Town"
+  },
+  {
+    "date": "2024-02-23",
+    "temperatureC": 17,
+    "temperatureF": 62,
+    "summary": "Freezing",
+    "location": "Tokyo"
+  },
+  {
+    "date": "2024-02-24",
+    "temperatureC": -8,
+    "temperatureF": 18,
+    "summary": "Chilly",
+    "location": "Helsinki"
+  },
+  {
+    "date": "2024-02-25",
+    "temperatureC": -1,
+    "temperatureF": 31,
+    "summary": "Scorching",
+    "location": "Cape Town"
+  },
+  {
+    "date": "2024-02-26",
+    "temperatureC": -12,
+    "temperatureF": 11,
+    "summary": "Warm",
+    "location": "Toronto"
+  },
+  {
+    "date": "2024-02-27",
+    "temperatureC": 13,
+    "temperatureF": 55,
+    "summary": "Scorching",
+    "location": "Cape Town"
+  },
+  {
+    "date": "2024-02-28",
+    "temperatureC": 34,
+    "temperatureF": 93,
+    "summary": "Chilly",
+    "location": "Dubai"
+  },
+  {
+    "date": "2024-02-29",
+    "temperatureC": 4,
+    "temperatureF": 39,
+    "summary": "Sweltering",
+    "location": "Rio de Janeiro"
+  }
+]
